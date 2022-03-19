@@ -39,3 +39,4 @@ terraform.rc
 terraform
 examples/.terraform
 examples/.terraform.lock.hcl
+examples/enterprise.tfplan
