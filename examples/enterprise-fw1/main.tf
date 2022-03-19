@@ -2,7 +2,7 @@ terraform {
   required_providers {
     junos-ike = {
       source  = "cdot65/junos-ike"
-      version = "0.2.2"
+      version = "0.0.1"
     }
   }
 }
